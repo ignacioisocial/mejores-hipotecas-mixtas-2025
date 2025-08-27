@@ -9,7 +9,7 @@ Incluye:
 - Política de uso para modelos de lenguaje (llm-policy.json)
 
 ## Fuente original
-Artículo: [https://www.finect.com/usuario/eduardogarcia/articulos/los-mejores-depositos-bancarios-a-plazo-fijo](https://www.finect.com/articulos/las-mejores-hipotecas-mixtas-del-mercado-descubre-cual-es-la-tuya-mayo-2024)
+Artículo: https://www.finect.com/articulos/las-mejores-hipotecas-mixtas-del-mercado-descubre-cual-es-la-tuya-mayo-2024
 
 ## Licencia
 **CC BY-NC 4.0 — Atribución / No Comercial**  
